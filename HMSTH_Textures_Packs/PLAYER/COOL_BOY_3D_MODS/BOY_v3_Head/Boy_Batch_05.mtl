@@ -1,0 +1,12 @@
+# Blender 5.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl _87c2cbb_dds.001
+Ns 10.221204
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd BOY_v3_Textures/texture_02.bmp
